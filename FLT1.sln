@@ -6,13 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FLT1", "FLT1\FLT1.csproj", "{F681C0C6-405F-493D-B6B0-4EB4B429E62F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{87F8621A-33D1-4DEB-B39F-8CC5F3727C33}"
-	ProjectSection(SolutionItems) = preProject
-		Account.cs = Account.cs
-		FixedAccount.cs = FixedAccount.cs
-		OverDraftAccount.cs = OverDraftAccount.cs
-		SavingsAccount.cs = SavingsAccount.cs
-		SpecialSavingsAccount.cs = SpecialSavingsAccount.cs
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

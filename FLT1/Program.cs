@@ -12,6 +12,7 @@ namespace FLT1
         {
             Account a2 = new SavingsAccount("Jamal", "1234", 10000);  
             a2.transaction(9580);
+
             Console.WriteLine();
             a2.transaction(1000); 
             a2.transaction(1000);
@@ -49,6 +50,7 @@ namespace FLT1
             a3.transaction(5750);
             a3.ShowInfo();
             Console.WriteLine();
+            Console.ReadKey();
 
         }
     }

@@ -1,2 +1,7 @@
 C:\Users\jhmla\source\repos\FLT1\FLT1\obj\Debug\FLT1.csprojAssemblyReference.cache
 C:\Users\jhmla\source\repos\FLT1\FLT1\obj\Debug\FLT1.csproj.CoreCompileInputs.cache
+C:\Users\jhmla\source\repos\FLT1\FLT1\bin\Debug\FLT1.exe.config
+C:\Users\jhmla\source\repos\FLT1\FLT1\bin\Debug\FLT1.exe
+C:\Users\jhmla\source\repos\FLT1\FLT1\bin\Debug\FLT1.pdb
+C:\Users\jhmla\source\repos\FLT1\FLT1\obj\Debug\FLT1.exe
+C:\Users\jhmla\source\repos\FLT1\FLT1\obj\Debug\FLT1.pdb
